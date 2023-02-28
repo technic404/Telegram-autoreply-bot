@@ -1,0 +1,26 @@
+{
+    "hello": {
+        "containsWordInMessage": false,
+        "ignoreCase": false,
+        "reply": {
+            "text": [
+                "hi",
+                "test"
+            ],
+            "images": []
+        }
+    },
+    "image": {
+        "containsWordInMessage": true,
+        "ignoreCase": true,
+        "reply": {
+            "text": [
+                "Here are your images"
+            ],
+            "images": [
+                "./images/test1.png",
+                "./images/test2.png"
+            ]
+        }
+    }
+}
