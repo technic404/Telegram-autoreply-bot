@@ -5,7 +5,7 @@ const fs = require('fs');
 const input = require('input');
 
 
-const API_ID = 00000000; // YOUR_API_ID
+const API_ID = 00000000; // YOUR API_ID
 const API_HASH = 'YOUR_API_HASH';
 
 
